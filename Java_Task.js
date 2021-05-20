@@ -1,4 +1,4 @@
-// onvertFahrToCelsius
+// ConvertFahrToCelsius
 
 function convertFahrToCelsius(F) {
     let dataType = typeof F;
